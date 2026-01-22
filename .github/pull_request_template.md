@@ -30,7 +30,6 @@
 
 - Issue: #
 
-
 ## Associated Developers
 <!--
     Please mention any developers who should be alerted of this PR.
