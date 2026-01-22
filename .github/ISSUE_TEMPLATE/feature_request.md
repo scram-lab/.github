@@ -30,5 +30,5 @@ assignees: ''
 
 # How can this issue be closed?
 <!--
-    Please decribe how this issue can be closed.
+    Please describe how this issue can be closed.  Suggest implementation methods.
 -->
