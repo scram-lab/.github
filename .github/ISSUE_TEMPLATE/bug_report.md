@@ -6,6 +6,7 @@ labels: 'Bug'
 assignees: ''
 
 ---
+<!-- Adopted from ARFC -->
 
 <!-- 
     This template is provided for convenience, but is not the required format of a bug report issue. Please feel free to edit and cut irrelevant sections!

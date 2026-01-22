@@ -6,6 +6,7 @@ labels: 'Feature'
 assignees: ''
 
 ---
+<!-- Adopted from ARFC -->
 
 # Motivation for Feature.
 <!-- 
@@ -29,5 +30,5 @@ assignees: ''
 
 # How can this issue be closed?
 <!--
-    Please decribe how this issue can be closed. What outcome has to be achieved for this bug report to be resolved?
+    Please decribe how this issue can be closed.
 -->
