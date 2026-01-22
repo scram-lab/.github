@@ -15,6 +15,7 @@ assignees: ''
 # Description of the bug
 <!-- 
     Describe the bug in detail. Do not be afraid to be as verbose as you can, please use code blocks, screen shots, figures, etc. to help communicate what is wrong!
+    Be sure to well comment any code blocks and explain added figures. 
 -->
 
 ## Are there any relevant inputs and outputs?
